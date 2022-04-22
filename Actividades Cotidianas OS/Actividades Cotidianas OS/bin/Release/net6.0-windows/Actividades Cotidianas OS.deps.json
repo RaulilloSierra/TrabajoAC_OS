@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Actividades Cotidianas OS/1.0.0": {
+        "runtime": {
+          "Actividades Cotidianas OS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Actividades Cotidianas OS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
